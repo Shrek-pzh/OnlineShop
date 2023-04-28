@@ -1,3 +1,4 @@
+#在线电商平台 技术栈：Vue、vue-router、vuex、axios、elementui等
 # app
 
 ## Project setup
